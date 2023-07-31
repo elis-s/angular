@@ -1,0 +1,22 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  span{
+    padding: 30px;
+    color:#ffffff;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    img{
+    height: 50px;
+    width: 100px;
+
+    }
+    .color{
+        background-color: #000000;
+    }
+
+    a{
+        text-decoration: none;
+        color: white;
+        }
